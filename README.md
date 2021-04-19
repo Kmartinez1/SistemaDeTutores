@@ -9,3 +9,4 @@ El objetivo principal de nuestro proyecto es que estudiantes de la carrera unive
 Integrantes
 
 - Karina Andrea Noble Martínez (Institucional) 
+-  Hamel Gabriel Hernández Gil  (Institucional) 
