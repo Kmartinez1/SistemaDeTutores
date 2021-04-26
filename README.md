@@ -8,6 +8,8 @@ El objetivo principal de nuestro proyecto es que estudiantes de la carrera unive
 
 Integrantes
 
+- Karina Andrea Noble Martínez (Institucional) 
 - Dina Luz Mendoza Mejía (cuenta alterna)
 - Hamel Gabriel Hernández Gil  (Cuenta alterna) 
+
 
