@@ -9,4 +9,10 @@ El objetivo principal de nuestro proyecto es que estudiantes de la carrera unive
 Integrantes
 
 - Karina Andrea Noble Martínez (Institucional) 
+<<<<<<< HEAD
 -  Hamel Gabriel Hernández Gil  (Cuenta alterna) 
+=======
+- Dina Luz Mendoza Mejía (cuenta alterna)
+- Hamel Gabriel Hernández Gil  (Cuenta alterna) 
+
+>>>>>>> 68d241db91ca7537625c4a8d6d6ea27e921f57f0
