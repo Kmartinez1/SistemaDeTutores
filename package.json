@@ -1,0 +1,23 @@
+{
+  "name": "SistemaDeTutores",
+  "version": "1.0.0",
+  "description": "![image](https://user-images.githubusercontent.com/79179842/115155428-9224b980-a045-11eb-9cb2-404204f81ec0.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kmartinez1/SistemaDeTutores.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kmartinez1/SistemaDeTutores/issues"
+  },
+  "homepage": "https://github.com/Kmartinez1/SistemaDeTutores#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
