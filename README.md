@@ -11,5 +11,6 @@ Integrantes
 - Karina Andrea Noble Martínez (Institucional) 
 - Dina Luz Mendoza Mejía (cuenta alterna)
 - Hamel Gabriel Hernández Gil  (Cuenta alterna) 
+- Jose David Rhenals Garcia (institucional)
 
 
